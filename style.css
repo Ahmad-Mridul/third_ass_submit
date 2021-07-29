@@ -1,0 +1,14 @@
+.bg-header{
+  background: #05233bc7;
+}
+.color {
+  background-color: rgb(38, 70, 83);
+}
+
+.gray-scale {
+  filter: grayscale(100%);
+}
+.user-image {
+  width: 50%;
+  border-radius: 50%;
+}
